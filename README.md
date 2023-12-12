@@ -1,4 +1,5 @@
 Overview
+
 This Laravel-based web application provides a platform for customers to browse canvas art pictures, view prices, and access a blog section. On the admin side, administrators have functionalities to manage canvas art, prices, blogs, and their content.
 
 Features
