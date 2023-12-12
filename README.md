@@ -5,11 +5,13 @@ This Laravel-based web application provides a platform for customers to browse c
 Features
 
 Customer Side
+
 Browse Canvas Art: Users can explore a variety of canvas art pictures available on the platform.
 View Prices: Prices for each canvas art piece are displayed alongside the images.
 Read Blog: Access the blog section to read articles related to art and canvas.
 
 Admin Side
+
 Canvas Art Management:
 Create new canvas art entries with images, descriptions, and pricing information.
 Update existing canvas art details.
